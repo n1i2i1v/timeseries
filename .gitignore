@@ -1,2 +1,5 @@
 __pycache__
-*.swp
+.ipynb_checkpoints
+.featurize.py.swp
+.gitignore.swp
+.featurize.py.swp
